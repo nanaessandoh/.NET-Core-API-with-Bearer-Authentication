@@ -1,0 +1,6 @@
+https://dotnetplaybook.com/secure-a-net-core-api-using-bearer-authentication/
+
+dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
+
+Client Secret
+KO.b4kDtdKzv.jxi.9-BWhVmN17yi~a073
